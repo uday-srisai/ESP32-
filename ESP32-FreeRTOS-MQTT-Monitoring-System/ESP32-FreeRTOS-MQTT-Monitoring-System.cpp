@@ -24,8 +24,8 @@ const uint8_t RELAY_PIN=27;
 //I2C oled display object
 Adafruit_SSD1306 display(SCREEN_WIDTH,SCREEN_HEIGHT,&Wire,-1);
 
-const char *ssid="YAGNA";
-const char *password="yagna@28";
+const char *ssid="yourwifiusername";// change this
+const char *password="yourwifipassword";//change this
 const char *mqtt_server = "broker.hivemq.com";
 
 typedef struct
