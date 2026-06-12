@@ -13,6 +13,8 @@ This project is an autonomous Line Follower Robot built using an ESP32 microcont
 - Robot Chassis
 - Wheels
 - Battery Pack
+- DC-DC Buck Converter
+- Power Switch
 - Connecting Wires
 
 ## Features
