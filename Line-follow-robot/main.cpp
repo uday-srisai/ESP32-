@@ -24,7 +24,7 @@ const uint8_t right_ir=22;
 const uint8_t center_ir=23;
 const uint8_t left_ir=25;
 
-int last_direction=0;
+
 
 void forward()
 {
